@@ -8,6 +8,7 @@ Here is the workflow in this kind of proyects:
 
 ![Screenshot](LDA_workflow.png)
 
+
 And here is an example of how the cluster may be:
 
-![Screenshot](Topic.png)
+![Screenshot](topics.png)
