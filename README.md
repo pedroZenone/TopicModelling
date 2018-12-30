@@ -6,8 +6,8 @@ So, an interesting technique that allow us to solve this problem is the Latent D
 
 Here is the workflow in this kind of proyects:
 
-![Screenshot](Pipeline.png)
+![Screenshot](LDA_workflow.png)
 
 And here is an example of how the cluster may be:
 
-![Screenshot](Pipeline.png)
+![Screenshot](Topic.png)
