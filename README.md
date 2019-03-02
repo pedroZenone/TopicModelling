@@ -17,6 +17,10 @@ Here's a quick script guide:
 
 - wordCloudGenerator.R: If you want to show each topic in wordclouds, run this code.
 
+You can check an example here:
+https://pedrozenone.github.io/TopicModeling/
+https://pedrozenone.github.io/SNA/
+
 Here is the workflow in this kind of projects:
 
 ![Screenshot](LDA_workflow.png)
